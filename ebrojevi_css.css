@@ -1,0 +1,8 @@
+a:link {
+	color: #CC3300;
+; text-decoration: none
+}
+a:active {
+	text-decoration: none;
+; color: #CC6600
+}
